@@ -1,0 +1,5 @@
+hello world
+today is thursday
+tommorrow is friday
+python is a very
+this is month of august
